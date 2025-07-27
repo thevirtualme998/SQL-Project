@@ -1,4 +1,7 @@
-# Coffee Shop Sales Data Analysis<img width="1625" height="202" alt="image" src="https://github.com/user-attachments/assets/62dffb78-a327-4952-84bb-350d82eb093a" />
+# Coffee Shop Sales Data Analysis
+## A Data-Driven Approach to Business Expansion
+
+
 
 
 ## Problem Overview
