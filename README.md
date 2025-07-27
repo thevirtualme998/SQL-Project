@@ -1,4 +1,5 @@
-# SQL-Project
+# Coffee Shop Sales Data Analysis<img width="1625" height="202" alt="image" src="https://github.com/user-attachments/assets/62dffb78-a327-4952-84bb-350d82eb093a" />
+
 
 ## Problem Overview
 Monday Coffee, an online coffee retailer operating since January 2023, aimed to strategically expand its business by opening physical coffee shops in India. To make informed decisions, they needed a data-driven approach to identify the top three cities with the highest market potential for new store locations.
