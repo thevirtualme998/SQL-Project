@@ -129,7 +129,7 @@ SELECT * FROM
 ) as t1
 WHERE `rank` <= 3;
 
-.7 Customer Segmentation by City
+#### 7 Customer Segmentation by City
 -- How many unique customers are there in each city who have purchased coffee products?
 
 SELECT 
